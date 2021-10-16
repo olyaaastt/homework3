@@ -1,0 +1,42 @@
+
+body{
+    background: lightskyblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.xxx{
+    background: lavender;
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+    margin-top: 10px;
+    box-shadow: 60px -16px 100px  blueviolet ;
+    border: 3px double mediumslateblue;
+    border-radius: 20px;
+}
+.header{
+    border:3px Green solid;
+    margin: 10px 10px ;
+    border-radius: 10px;
+
+}
+p {
+    border: 3px Yellow solid;
+    margin: 10px 10px;
+}
+ul{
+    border:3px DeepSkyBlue solid;
+    margin:10px 10px;
+    border-radius: 10px;
+}
+li{
+    border:1px Blue solid ;
+    margin:10px 10px 10px;
+}
+img{
+    width: 250px;
+    border:3px lightpink solid;
+    margin: 10px 10px 10px;
+}
